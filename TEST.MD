@@ -339,7 +339,8 @@ async/await allows asynchronous code to be written in a synchronous style, makin
 
 Q15:
 
-findOne(): Retrieves a single document that matches the query criteria, returning the first match it finds.  find(): Retrieves all documents that match the query criteria, returning an array of results.
+findOne(): Retrieves a single document that matches the query criteria, returning the first match it finds. 
+find(): Retrieves all documents that match the query criteria, returning an array of results.
 
 
 
